@@ -1,0 +1,65 @@
+{
+  "algo_version": "95.2.0",
+  "generated_at": "2026-01-20T08:44:58.807984+00:00",
+  "summary": {
+    "total_titles": 1,
+    "total_predicted_views": 1662297.0432125872,
+    "total_predicted_hours": 1385247.5360104893,
+    "average_views_per_title": 1662297.0432125872
+  },
+  "predictions": [
+    {
+      "title_id": "demo_001",
+      "title": "Demo Series",
+      "platform": "netflix",
+      "predicted_views": 1662297.0432125872,
+      "predicted_hours": 1385247.5360104893,
+      "base_views": 5000000,
+      "completion_quality": 1.0,
+      "geopolitical_factor": 0.825,
+      "qoe_factor": 1.0175,
+      "availability_factor": 1.7749497651380597,
+      "abstract_adjustment": 0.2231332008770776,
+      "confidence_interval_low": 1579182.191051958,
+      "confidence_interval_high": 1745411.8953732166,
+      "prediction_date": "2026-01-20T08:44:58.733336+00:00",
+      "target_quarter": "Q1 2026"
+    }
+  ],
+  "model_parameters": {
+    "target_mape": 2.0,
+    "genres_supported": [
+      "reality_tv",
+      "documentary",
+      "drama",
+      "action",
+      "comedy",
+      "horror",
+      "thriller",
+      "sci_fi",
+      "romance",
+      "animation",
+      "family",
+      "crime",
+      "mystery",
+      "fantasy",
+      "default",
+      "drama_serial",
+      "kids_animation",
+      "sports",
+      "music",
+      "talk_show",
+      "news"
+    ],
+    "platforms_supported": [
+      "netflix",
+      "hulu",
+      "disney_plus",
+      "max",
+      "peacock",
+      "paramount_plus",
+      "apple_tv_plus",
+      "prime_video"
+    ]
+  }
+}
